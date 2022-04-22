@@ -1,1 +1,1 @@
-# Full_permutation
+全排列
